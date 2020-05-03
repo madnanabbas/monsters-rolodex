@@ -1,0 +1,11 @@
+.search {
+  border: none;
+  outline: none;
+  padding: 5px;
+  padding-left: 10px;
+  width: 250px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  border-radius: 2px;
+  font-family: "Open Sans";
+}
